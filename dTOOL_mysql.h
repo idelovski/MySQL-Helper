@@ -1,7 +1,7 @@
 /*
  *  dTOOL_mysql.h
  *  Bouquet - loading library on Windows, does nothing on Mac
- *  My Win compiler can't handle mysql.lib directly
+ *  My Win compiler can't handle libmysql.dll library directly so LoadLibrary() to the rescue
  *
  *  Created by Igor Delovski on 02.07.2011.
  *  Copyright 2011, 2016, 2020 Igor Delovski All rights reserved.
